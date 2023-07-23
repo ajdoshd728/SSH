@@ -29,7 +29,7 @@ def CheckMinerProcess():
 
 
 ADMIN_USER_ID = [
-    6276089917,
+    6153993859,
     5940473178,
 ]
 BOT_API_TOKEN = os.environ.get("BOT_API_TOKEN")
